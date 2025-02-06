@@ -12,3 +12,6 @@ The self-attention mechanism works in the following steps:
 - [[Key Matrix]]
 - [[Value Matrix]]
 - [[Importance of dk in Scaling]]
+
+## Links
+- [[Self Attention]]

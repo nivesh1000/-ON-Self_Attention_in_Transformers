@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-Attention Architecture.md",
+                "file": "Self Attention in Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self-Attention Architecture"
+              "title": "Self Attention in Transformers"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Attention Architecture.md",
+                "file": "Self Attention in Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Self-Attention Architecture"
+              "title": "Backlinks for Self Attention in Transformers"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Attention Architecture.md",
+                "file": "Self Attention in Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Self-Attention Architecture"
+              "title": "Outgoing links from Self Attention in Transformers"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-Attention Architecture.md",
+                "file": "Self Attention in Transformers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Self-Attention Architecture"
+              "title": "Outline of Self Attention in Transformers"
             }
           }
         ]
@@ -170,13 +170,14 @@
   },
   "active": "9522db573728f897",
   "lastOpenFiles": [
+    "Advantages of Self-Attention.md",
+    "Example of Self-Attention.md",
+    "Importance of dk in Scaling.md",
     "Self Attention in Transformers.md",
     "Self-Attention Architecture.md",
-    "Example of Self-Attention.md",
-    "Advantages of Self-Attention.md",
-    "Importance of dk in Scaling.md",
     "Value Matrix.md",
     "Key Matrix.md",
-    "Query Matrix.md"
+    "Query Matrix.md",
+    "README.md"
   ]
 }

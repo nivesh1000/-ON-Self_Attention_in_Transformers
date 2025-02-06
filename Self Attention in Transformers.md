@@ -5,3 +5,6 @@ Self-attention is a technique used in transformers to find relationships between
 - [[Advantages of Self-Attention]]
 - [[Self-Attention Architecture]]
 - [[Example of Self-Attention]]
+
+## Links
+- [[Self Attention]]
